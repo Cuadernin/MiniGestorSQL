@@ -57,8 +57,8 @@ class base(QMainWindow):
             try:
                 ######################################################
                 self.conexion=mysql.connector.connect(host="localhost", 
-                                user="root",
-                                passwd="your password")
+                                user="root",                                   # CHANGE THIS 
+                                passwd="your password")                                                                             
                 ######################################################   
                 cursor=self.conexion.cursor()
                 sql1=f'CREATE DATABASE {nombre}' 
