@@ -5,7 +5,7 @@ GUI que permite realizar distintas operaciones en SQL usando python.
   <div class="column">
     <img align="left" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen2.png" height="400" width="400"> 
   </div>
-  <div class="columns">
+  <div class="column">
     <img align="right" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen3.png" height="400" width="400"> 
     </div>
   </div>
