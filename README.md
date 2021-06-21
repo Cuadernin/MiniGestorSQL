@@ -1,16 +1,11 @@
 # Mini gestor de base de datos SQL(GUI)
 GUI que permite realizar distintas operaciones en SQL usando python.
 
-<div class="row">
-  <div class="column">
-    <img align="left" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen2.png" height="400" width="400"> 
-  </div>
-  <div class="column">
-    <img align="right" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen3.png" height="400" width="400"> 
-    </div>
-  </div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
+<figure class="half" style="display:flex">
+    <img style="width:400px" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen2.png">
+    <img style="width:600px" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen3.png">
+    <figcaption></figcaption>
+</figure>
 
 ## Informacion 👌
   Permite realizar distintas operaciones a una base de datos en MYSQL. Puede modificarse para ser aplicado a una base de datos en PostgreSQL y SQLlite3.
