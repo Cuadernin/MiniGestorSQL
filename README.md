@@ -1,5 +1,5 @@
 # Mini gestor de base de datos SQL(GUI)
-Gestor de base de datos SQL usando python.
+GUI que permite realizar distintas operaciones en SQL usando python.
 
 <img align="left" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen1.png" height="400" width="400"> <img align="left" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen2.png" height="400" width="400"> 
 <img align="left" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen3.png" height="400" width="400"> <img align="left" src="https://github.com/Cuadernin/MiniGestorSQL/blob/master/images/imagen4.png" height="400" width="400">
