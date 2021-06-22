@@ -1,4 +1,4 @@
-# Mini gestor de base de datos SQL(GUI)
+# Interfaz gráfica que realizar operaciones básicas en SQL
 GUI que permite realizar distintas operaciones en SQL usando python.
 
 <figure class="half" style="display:flex">
