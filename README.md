@@ -1,4 +1,4 @@
-# Interfaz gráfica que realizar operaciones básicas en SQL
+# Interfaz gráfica que realiza operaciones básicas en SQL
 GUI que permite realizar distintas operaciones en SQL usando python.
 
 <figure class="half" style="display:flex">
